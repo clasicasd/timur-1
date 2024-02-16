@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+.text {
+  color: white;
+}
+
+.a {
+  text-decoration: none;
+  color: black;
+}
+
+.button {
+  height: 30px;
+  width: 90px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.video {
+  height: 100vh;
+}
